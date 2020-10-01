@@ -21,17 +21,11 @@ while i < length:
             result.append(final_str)
             print('false')
     i = i + 1
-    
 
 for child in result:
     print(child)
 
-"""for i in range(len(array_contain_strings)):
-    if array_contain_strings[int(i)] in array_contain_strings[int(i) + 1]:
-        if len(array_contain_strings[int(i) + 1]) > len(array_contain_strings[i]):
-            final_str = array_contain_strings[int(i) + 1]
-    else:
-        result.append(final_str)"""
+
             
 
 
